@@ -1,0 +1,39 @@
+.a-propos-main {
+    width: 50%;
+    margin: auto;
+  }
+
+.contenu {
+    border-right: 1px solid #cfb757;
+    border-bottom: 1px solid #cfb757;
+    padding: 50px;
+    margin-bottom: 80px;
+  }
+
+.contenu h2 {
+    margin-top: 30px;
+  }
+  
+.contenu ul {
+    margin-top: 30px;
+  }
+
+table {
+    border-collapse: collapse;
+    margin-top: 50px;
+    width: 100%;
+    color: white;
+  }
+  
+td, th {
+    border: 2px solid white;
+    padding: 15px;
+  }
+
+caption{
+    margin-bottom: 20px;
+  }
+
+.contenu + div {
+    text-align: center;
+  }
